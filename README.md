@@ -1,5 +1,10 @@
 # zero-hunger-project-googleSolution
 
+#The mission is to solve for one or more of the United Nations 17
+Sustainable Development Goals using Google technology. We, in
+team, work on the “ZERO HUNGER” mission as our goal and create
+an web-app Interface to solve this.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
